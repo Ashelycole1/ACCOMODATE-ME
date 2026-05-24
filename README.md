@@ -29,4 +29,4 @@
 
 ## License
 
-&copy; 2026 Accomodate Me. All rights reserved.
+&copy; 2026 RENOA. All rights reserved.
