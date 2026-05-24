@@ -29,4 +29,4 @@
 
 ## License
 
-&copy; 2026 RENOA. All rights reserved.
+&copy; 2026 RENOA[https://www.linkedin.com/company/renoa-collective/]. All rights reserved.
